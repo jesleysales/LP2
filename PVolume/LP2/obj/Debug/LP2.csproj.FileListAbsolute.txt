@@ -1,0 +1,9 @@
+C:\Users\jesle\source\repos\LP2\LP2\bin\Debug\LP2.exe.config
+C:\Users\jesle\source\repos\LP2\LP2\bin\Debug\LP2.exe
+C:\Users\jesle\source\repos\LP2\LP2\bin\Debug\LP2.pdb
+C:\Users\jesle\source\repos\LP2\LP2\obj\Debug\LP2.Form1.resources
+C:\Users\jesle\source\repos\LP2\LP2\obj\Debug\LP2.Properties.Resources.resources
+C:\Users\jesle\source\repos\LP2\LP2\obj\Debug\LP2.csproj.GenerateResource.cache
+C:\Users\jesle\source\repos\LP2\LP2\obj\Debug\LP2.csproj.CoreCompileInputs.cache
+C:\Users\jesle\source\repos\LP2\LP2\obj\Debug\LP2.exe
+C:\Users\jesle\source\repos\LP2\LP2\obj\Debug\LP2.pdb
