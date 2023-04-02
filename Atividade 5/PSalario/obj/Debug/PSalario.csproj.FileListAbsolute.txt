@@ -1,0 +1,10 @@
+C:\Users\jesle\Desktop\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\jesle\Desktop\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\jesle\Desktop\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.Form1.resources
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.pdb
+C:\Users\jesle\Desktop\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
