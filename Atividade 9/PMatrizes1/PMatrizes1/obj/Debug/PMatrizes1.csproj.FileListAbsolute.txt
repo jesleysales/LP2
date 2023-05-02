@@ -1,0 +1,11 @@
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\bin\Debug\PMatrizes1.exe.config
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\bin\Debug\PMatrizes1.exe
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\bin\Debug\PMatrizes1.pdb
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.csproj.AssemblyReference.cache
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.Properties.Resources.resources
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.csproj.GenerateResource.cache
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.csproj.CoreCompileInputs.cache
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.exe
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.pdb
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.frmPMatrizes.resources
+C:\Users\jesle\source\repos\PMatrizes1\PMatrizes1\obj\Debug\PMatrizes1.frmExercicio6.resources
